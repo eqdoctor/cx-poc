@@ -1,0 +1,14 @@
+{
+  "name": "ehsample",
+  "version": "1.0.0",
+  "description": "test to send events to EH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-event-hubs": "0.0.6"
+  }
+}
